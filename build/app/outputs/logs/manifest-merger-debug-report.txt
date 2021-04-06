@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [:sqflite] /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6cbf01ed393b77d1ab7e6b97f5168fd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/84f96b18e3daec2f9dd928c17c85b579/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/187840b0df40db0998d87b234fc8ceba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/afab68aa21c3b257d46cd2d38096f496/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0d30a3f1065bbef770a8cb9e40299a75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d9e8c6f35a533e1e8c6457f9d776c967/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/75c6ffbadb3a1b3e2e0344d04ec3ca12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5bd46105fa26a546a3aeea83946889a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/45b68ec4b4c7bc29b98213960b43fc0f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/31f5ab906901e06ccf961f1551c6c2a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/71fb8e8501888996b00e3bbfeb316676/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/59c47b826e8dcc2c28ed27bd6dd02332/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e524b87db4f10d185c612bba4e56fd7e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/730e18c598d3ad9bd82063dee8d5d096/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dffe0b9b705143faa4a1f3879cf73765/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c93b651bfa0a0930043547a8d825389a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c2e1f9d0d196b5a35b92252566adbf56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e19cd44acc57d2facbc9806b07cf98df/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5ee75e7e03f8073100a4480971e9b0b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/79818ee6a33d64f7757790bb0a5c133a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/36c1dde878d71ba91f011595041c49d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5ca5c4b188c81027f3ae399d55fc8b69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2afd3cccfc1d7b019f73e541fe36d47e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:2:5-45
+		INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/59c47b826e8dcc2c28ed27bd6dd02332/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/59c47b826e8dcc2c28ed27bd6dd02332/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e19cd44acc57d2facbc9806b07cf98df/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e19cd44acc57d2facbc9806b07cf98df/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/59c47b826e8dcc2c28ed27bd6dd02332/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:17:9-45
+	android:icon
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.example.flutterdatabaseapp.MainActivity
+ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+MERGED from [:sqflite] /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6cbf01ed393b77d1ab7e6b97f5168fd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6cbf01ed393b77d1ab7e6b97f5168fd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/84f96b18e3daec2f9dd928c17c85b579/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/84f96b18e3daec2f9dd928c17c85b579/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/187840b0df40db0998d87b234fc8ceba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/187840b0df40db0998d87b234fc8ceba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/afab68aa21c3b257d46cd2d38096f496/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/afab68aa21c3b257d46cd2d38096f496/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0d30a3f1065bbef770a8cb9e40299a75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/0d30a3f1065bbef770a8cb9e40299a75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d9e8c6f35a533e1e8c6457f9d776c967/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d9e8c6f35a533e1e8c6457f9d776c967/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/75c6ffbadb3a1b3e2e0344d04ec3ca12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/75c6ffbadb3a1b3e2e0344d04ec3ca12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5bd46105fa26a546a3aeea83946889a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5bd46105fa26a546a3aeea83946889a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/45b68ec4b4c7bc29b98213960b43fc0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/45b68ec4b4c7bc29b98213960b43fc0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/31f5ab906901e06ccf961f1551c6c2a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/31f5ab906901e06ccf961f1551c6c2a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/71fb8e8501888996b00e3bbfeb316676/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/71fb8e8501888996b00e3bbfeb316676/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/59c47b826e8dcc2c28ed27bd6dd02332/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/59c47b826e8dcc2c28ed27bd6dd02332/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e524b87db4f10d185c612bba4e56fd7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e524b87db4f10d185c612bba4e56fd7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/730e18c598d3ad9bd82063dee8d5d096/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/730e18c598d3ad9bd82063dee8d5d096/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dffe0b9b705143faa4a1f3879cf73765/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dffe0b9b705143faa4a1f3879cf73765/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c93b651bfa0a0930043547a8d825389a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c93b651bfa0a0930043547a8d825389a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c2e1f9d0d196b5a35b92252566adbf56/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ming/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c2e1f9d0d196b5a35b92252566adbf56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e19cd44acc57d2facbc9806b07cf98df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/e19cd44acc57d2facbc9806b07cf98df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5ee75e7e03f8073100a4480971e9b0b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/5ee75e7e03f8073100a4480971e9b0b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/79818ee6a33d64f7757790bb0a5c133a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/79818ee6a33d64f7757790bb0a5c133a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/36c1dde878d71ba91f011595041c49d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/36c1dde878d71ba91f011595041c49d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5ca5c4b188c81027f3ae399d55fc8b69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5ca5c4b188c81027f3ae399d55fc8b69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2afd3cccfc1d7b019f73e541fe36d47e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ming/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/2afd3cccfc1d7b019f73e541fe36d47e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ming/StudioProjects/flutterdatabaseapp/flutter_database_app/android/app/src/main/AndroidManifest.xml
